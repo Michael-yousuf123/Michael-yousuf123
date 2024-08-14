@@ -157,9 +157,9 @@
 <table>
   <tr>
     <th><a href="https://manthan-bhikadiya.wixsite.com/profile" target="_blank"><img src="Images/manthan logo.jpg"  height="64" width="64"></a></th>
-    <th><a href="mailto: bhikadiyamanthan@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
+    <th><a href="mailto: michaelabdi2@gmail.com" target="_blank"><img src="Images/Gmail-Logo..svg"  height="64" width="64"></a></th>
     <th><a href="https://www.linkedin.com/in/manthanbhikadiya" target="_blank"><img src="Images/linkedin-tile.svg"  height="64" width="64"></a></th>
-    <th><a href="https://manthan-bhikadiya.medium.com/" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
+    <th><a href="[https://manthan-bhikadiya.medium.com/](https://medium.com/@michaelabdi2)" target="_blank"><img src="Images/medium.svg"  height="64" width="64"></a></th>
     <th><a href="https://www.instagram.com/manthan.bhikadiya" target="_blank"><img src="Images/instagram.png"  height="64" width="64"></a></th>
   </tr>
   <tr>
