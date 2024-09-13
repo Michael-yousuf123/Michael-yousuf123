@@ -3,7 +3,6 @@
 ## Welcome 🤝 to My Github Profile 🏟🎆
 - 🔭 I’m currently working on <b>Data Science, Deep learning, Machine learning</b> and <b>Computer Vision.</b>
 - 🌱 I’m currently learning <b>Artifical Intelligence and Deep learning.</b>
-- 🤔 I’m looking for help with <b>AI , DL, ML & CV.</b>
 - 💬 Ask Me About <b>Machine Learning , Deep learning Basics.</b>
 - 🌟 In My Github You Can Find <b>Projects</b> Related to <b>Machine learning and Deep learning.</b><br>
 
@@ -106,13 +105,6 @@
 - Data Analysis 🏅
 - Buisness Intelligence 🎖
 - Audio Signal Processing 🎖
-
-<br>
-
-## Github Stats 📊 :
-<img src="https://github-readme-stats.vercel.app/api?username=manthan89-py&&show_icons=true&title_color=dbf6e9&icon_color=c31432&text_color=64dfdf&bg_color=240b36">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthan89-py&layout=compact&title_color=eac8af&icon_color=9f5f80&text_color=feffde&bg_color=132743)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
