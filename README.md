@@ -18,8 +18,8 @@
   </tr>
   <tr>
     <th>Python</th>
-    <th>Dart</th> 
-    <th>Julia</th> 
+    <th>R</th> 
+    <th>JavaScript</th> 
   </tr>
 </table><br>
 
@@ -105,7 +105,6 @@
 - Python Programming 🏆
 - Data Analysis 🏅
 - Buisness Intelligence 🎖
-- Flutter App Development 🏅
 - Audio Signal Processing 🎖
 
 <br>
